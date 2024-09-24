@@ -1,0 +1,6 @@
+./miPrincipal/Posfija.java
+./miPrincipal/PilaVaciaException.java
+./miPrincipal/PilaArreglo.java
+./miPrincipal/Principal.java
+./miPrincipal/TDAPila.java
+./miTest/AppTest.java
